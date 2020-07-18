@@ -1,4 +1,4 @@
-#GifApp
+# GifApp
 
 GifAPP is a web app built with ReactJS
 
